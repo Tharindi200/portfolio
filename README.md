@@ -6,3 +6,5 @@ Added by another developer
 
 Sample paragraph
 Sample Heading
+
+new feature
